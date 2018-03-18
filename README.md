@@ -1,37 +1,128 @@
-## Welcome to GitHub Pages
+# Vue
 
-You can use the [editor on GitHub](https://github.com/joeny3154/wanjun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [从零开始搭建Vue项目](https://github.com/joeny3154/vue-cli-like/blob/master/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- webpack基础配置
 
-### Markdown
+- 常用loader配置
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- webpack-dev-server搭建本地资源服务器
 
-```markdown
-Syntax highlighted code block
+- Babel配置
 
-# Header 1
-## Header 2
-### Header 3
+- elint配置
 
-- Bulleted
-- List
+- vue-loader配置
 
-1. Numbered
-2. List
+- postcss配置及其扩展
 
-**Bold** and _Italic_ and `Code` text
+- 启用HMR
 
-[Link](url) and ![Image](src)
-```
+- 生产环境 webpack 配置
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- css抽离
 
-### Jekyll Themes
+- CommonsChunkPlugin配置方案
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joeny3154/wanjun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- HashedModuleIdsPlugin稳定vender chunk
 
-### Support or Contact
+- ModuleConcatenationPlugin优化js执行速度
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- HtmlWebpackPlugin功能扩展
+
+- JavaScript代码压缩
+
+- 静态资源管理
+
+- gzip压缩
+
+- 可视化分析包的尺寸
+
+### [vue-cli配置详解](https://github.com/joeny3154/vue-cli-webpack-comments/blob/master/README.md)
+
+# React
+
+### [使用webpack搭建React多页项目](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/README.md)
+
+##### webpack 基础配置
+
+- 出入口、常用laoder配置
+
+- babel配置
+
+- eslint配置
+
+##### webpack 开发环境配置
+
+- webpack-dev-server搭建本地资源服务器
+
+- 启用热替换模块
+
+- 其他开发体验优化
+
+- 配置全局常量区别构建行为
+
+##### webpack 生产环境配置
+
+- 公共代码块抽离、独立vendor
+
+- 稳定chunkhash优化资源持久化缓存
+
+- css抽离并压缩
+
+- 作用域提升优化js运行速度
+
+- js压缩、gzip压缩
+
+- 可视化分析
+
+##### webpack 多页面配置
+
+- 入口配置与
+
+- 路由配置
+
+- redux配置
+
+### [React组件懒加载](https://github.com/joeny3154/react-lazilyload)
+
+# Babel
+
+### [Babel知识梳理](https://github.com/joeny3154/daily-notes/blob/master/babel/doc/doc.md)
+
+- babel-core
+
+- babel-cli
+
+- babel-external-helpers
+
+- babel-node
+
+- babel-register
+
+- babel-runtime
+
+- babel-polyfill
+
+- babel-preset-env
+
+- transform-runtime对比babel-polyfill
+
+# Node
+
+- [node版本管理器](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/nvm_node版本管理器.md)
+
+- [nrm使用](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/nrm使用.md)
+
+- [书写一个npm包并发布](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/书写一个npm包并发布.md)
+
+- [package-lock](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/package-lock.json.md)
+
+# jQuery
+
+- [编写jQuery插件](https://github.com/joeny3154/daily-notes/blob/master/jQuery/手写jQuery插件.md)
+
+- [jquery vs 原生获取各种尺寸、位置](https://github.com/joeny3154/daily-notes/blob/master/jQuery/jquery_原生获取各种尺寸位置.md)
+
+# Drafts
+
