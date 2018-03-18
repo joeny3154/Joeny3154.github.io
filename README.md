@@ -106,7 +106,7 @@
 
 - babel-preset-env
 
-- transform-runtime对比babel-polyfill
+- transform-runtime vs babel-polyfill
 
 # Node
 
