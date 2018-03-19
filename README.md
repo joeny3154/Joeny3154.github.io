@@ -1,8 +1,46 @@
 *这个github主页刚刚开始，目的是把日常的积累慢慢整理并迁移到这里，刚刚开始东西不多，内容还需要不断补充和梳理，像个毛坯房在慢慢装修中，见笑了...*
 
-# New
+# React
 
-### [webpack资源持久化缓存方案](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/doc/webpack%E8%B5%84%E6%BA%90%E6%8C%81%E4%B9%85%E5%8C%96%E7%BC%93%E5%AD%98%E6%96%B9%E6%A1%88.md)
+### [使用webpack搭建React多页项目](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/README.md)
+
+##### webpack 基础配置
+
+- 出入口、常用laoder配置
+
+- babel配置
+
+- eslint配置
+
+##### webpack 开发环境配置
+
+- webpack-dev-server搭建本地资源服务器
+
+- 启用热替换模块
+
+- 其他开发体验优化
+
+- 配置全局常量区别构建行为
+
+##### webpack 生产环境配置
+
+- 资源持久化缓存方案
+
+- css抽离&压缩
+
+- 生产环境下其他优化配置
+
+- build脚本
+
+##### webpack 多页面配置
+
+- 入口配置
+
+- 路由配置
+
+- redux配置
+
+### [React组件懒加载](https://github.com/joeny3154/react-lazilyload)
 
 # Vue
 
@@ -45,50 +83,6 @@
 - 可视化分析包的尺寸
 
 ### [vue-cli配置详解](https://github.com/joeny3154/vue-cli-webpack-comments/blob/master/README.md)
-
-# React
-
-### [使用webpack搭建React多页项目](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/README.md)
-
-##### webpack 基础配置
-
-- 出入口、常用laoder配置
-
-- babel配置
-
-- eslint配置
-
-##### webpack 开发环境配置
-
-- webpack-dev-server搭建本地资源服务器
-
-- 启用热替换模块
-
-- 其他开发体验优化
-
-- 配置全局常量区别构建行为
-
-##### webpack 生产环境配置
-
-- 资源持久化缓存方案
-
-- css抽离并压缩
-
-- 作用域提升优化js运行速度
-
-- js压缩、gzip压缩
-
-- 可视化分析
-
-##### webpack 多页面配置
-
-- 入口配置
-
-- 路由配置
-
-- redux配置
-
-### [React组件懒加载](https://github.com/joeny3154/react-lazilyload)
 
 # Webpack
 
