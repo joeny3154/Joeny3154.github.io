@@ -1,4 +1,8 @@
-*最近打算换工作，也想着好好弄个github主页出来，把日常写的markdown从其他仓库中慢慢整理出来放到这里，现在刚刚开始迁移过来的东西不多，内容还需要补充和梳理，像个毛坯房，慢慢装修中，见笑了...*
+*这个github主页刚刚开始，目的是把日常的积累慢慢整理并迁移到这里，刚刚开始东西不多，内容还需要不断补充和梳理，像个毛坯房在慢慢装修中，见笑了...*
+
+# New
+
+### [webpack资源持久化缓存方案](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/doc/webpack%E8%B5%84%E6%BA%90%E6%8C%81%E4%B9%85%E5%8C%96%E7%BC%93%E5%AD%98%E6%96%B9%E6%A1%88.md)
 
 # Vue
 
@@ -66,9 +70,7 @@
 
 ##### webpack 生产环境配置
 
-- 公共代码块抽离、独立vendor
-
-- 稳定chunkhash优化资源持久化缓存
+- 资源持久化缓存方案
 
 - css抽离并压缩
 
@@ -87,6 +89,10 @@
 - redux配置
 
 ### [React组件懒加载](https://github.com/joeny3154/react-lazilyload)
+
+# Webpack
+
+### [webpack资源持久化缓存方案](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/doc/webpack资源持久化缓存方案)
 
 # Babel
 
