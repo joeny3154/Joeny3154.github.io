@@ -46,43 +46,43 @@
 
 ### [从零开始搭建Vue项目](https://github.com/joeny3154/vue-cli-like/blob/master/README.md)
 
-- webpack基础配置
+##### webpack基础配置
 
-- 常用loader配置
-
-- webpack-dev-server搭建本地资源服务器
+- 出入口配置
 
 - Babel配置
 
-- elint配置
+- eslint配置
+
+- 常用loader配置
 
 - vue-loader配置
 
 - postcss配置及其扩展
 
-- 启用HMR
+##### 开发环境相关配置
 
-- 生产环境 webpack 配置
+- 构建本地资源服务器
 
-- css抽离
+- 启用热替换模块
 
-- CommonsChunkPlugin配置方案
+- Source Maps配置
 
-- HashedModuleIdsPlugin稳定vender chunk
+- 全局常量配置及其使用
 
-- ModuleConcatenationPlugin优化js执行速度
+- 其他优化配置
 
-- HtmlWebpackPlugin功能扩展
+##### 生产环境相关配置
 
-- JavaScript代码压缩
+- 生产环境基础配置
 
-- 静态资源管理
+- 抽离CSS并压缩、去除重复条目
 
-- gzip压缩
+- 共享代码块、持久化缓存
 
-- 可视化分析包的尺寸
+- 其他优化
 
-### [vue-cli配置详解](https://github.com/joeny3154/vue-cli-webpack-comments/blob/master/README.md)
+### [vue-cli详解](https://github.com/joeny3154/vue-cli-webpack-comments/blob/master/README.md)
 
 # Webpack
 
@@ -110,7 +110,8 @@
 
 - transform-runtime vs babel-polyfill
 
-# Node
+
+# Drafts
 
 - [node版本管理器](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/nvm_node版本管理器.md)
 
@@ -120,11 +121,6 @@
 
 - [package-lock](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/package-lock.json.md)
 
-# jQuery
-
 - [编写jQuery插件](https://github.com/joeny3154/daily-notes/blob/master/jQuery/手写jQuery插件.md)
 
 - [jquery vs 原生获取各种尺寸、位置](https://github.com/joeny3154/daily-notes/blob/master/jQuery/jquery_原生获取各种尺寸位置.md)
-
-# Drafts
-
