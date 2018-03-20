@@ -86,7 +86,7 @@
 
 # Webpack
 
-### [webpack资源持久化缓存方案](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/doc/webpack资源持久化缓存方案)
+### [webpack资源持久化缓存方案](https://github.com/joeny3154/react-webpack-multiple-pages/blob/master/doc/webpack资源持久化缓存方案.md)
 
 # Babel
 
