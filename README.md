@@ -113,6 +113,8 @@
 
 # Drafts
 
+- [canvas 撒金币](./canvas/coins.md)
+
 - [node版本管理器](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/nvm_node版本管理器.md)
 
 - [nrm使用](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/nrm使用.md)
