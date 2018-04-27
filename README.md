@@ -1,4 +1,3 @@
-*这个github主页刚刚开始，目的是把日常的积累慢慢整理并迁移到这里，刚刚开始东西不多，内容还需要不断补充和梳理，像个毛坯房在慢慢装修中，见笑了...*
 
 # React
 
@@ -109,20 +108,3 @@
 - babel-preset-env
 
 - transform-runtime vs babel-polyfill
-
-
-# Drafts
-
-- [canvas 撒金币](./canvas/coins.md)
-
-- [node版本管理器](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/nvm_node版本管理器.md)
-
-- [nrm使用](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/nrm使用.md)
-
-- [书写一个npm包并发布](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/书写一个npm包并发布.md)
-
-- [package-lock](https://github.com/joeny3154/daily-notes/blob/master/nodeJs/npm/package-lock.json.md)
-
-- [编写jQuery插件](https://github.com/joeny3154/daily-notes/blob/master/jQuery/手写jQuery插件.md)
-
-- [jquery vs 原生获取各种尺寸、位置](https://github.com/joeny3154/daily-notes/blob/master/jQuery/jquery_原生获取各种尺寸位置.md)
